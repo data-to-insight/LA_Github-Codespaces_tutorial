@@ -6,7 +6,9 @@ the file to check it works, then commit it back to the repo, ready to be merged 
 D2I.'''
 
 users = {
-  'Will':'Data 2 Insight'
+  'Will Levack-Payne':'Data 2 Insight',
+  'Fake Analyst': 'Imaginary LA'
 }
 
-print(users)
+for key in users:
+  print('Name: ' + key + ', ' + 'LA: ' + users[key])
