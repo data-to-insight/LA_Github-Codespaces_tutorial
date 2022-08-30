@@ -7,6 +7,7 @@ D2I.'''
 
 users = {
   'Will Levack-Payne':'Data 2 Insight',
+  'John Foster': 'Data 2 Insight',
   'Fake Analyst': 'Imaginary LA'
 }
 
