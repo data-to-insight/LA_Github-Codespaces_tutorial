@@ -9,7 +9,8 @@ users = {
   'Tracy Bell': 'Durham LA',
   'Will Levack-Payne':'Data 2 Insight',
   'John Foster': 'Data 2 Insight',
-  'Fake Analyst': 'Imaginary LA'
+  'Fake Analyst': 'Imaginary LA',
+  'Tina Szabo': 'Wigan LA',
 }
 
 for key in users:
