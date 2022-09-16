@@ -13,7 +13,8 @@ users = {
   'John Foster': 'Data 2 Insight',
   'Fake Analyst': 'Imaginary LA',
   'Tina Szabo': 'Wigan LA',
-  'Jennifer Cook': 'Cheshire West and Chester'
+  'Jennifer Cook': 'Cheshire West and Chester',
+  'Alistair Herbert': 'Data 2 Insight',
 }
 
 for key in users:
