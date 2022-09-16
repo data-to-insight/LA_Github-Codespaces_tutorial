@@ -12,6 +12,7 @@ users = {
   'Will Levack-Payne':'Data 2 Insight',
   'John Foster': 'Data 2 Insight',
   'Fake Analyst': 'Imaginary LA',
+  'Tina Szabo': 'Wigan LA',
   'Jennifer Cook': 'Cheshire West and Chester'
 }
 
