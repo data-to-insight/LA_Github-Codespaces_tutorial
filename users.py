@@ -6,11 +6,13 @@ the file to check it works, then commit it back to the repo, ready to be merged 
 D2I.'''
 
 users = {
+  'John Whitfield': 'Cheshire West and Chester LA',
   'Tracy Bell': 'Durham LA',
   'Will Levack-Payne':'Data 2 Insight',
   'John Foster': 'Data 2 Insight',
   'Fake Analyst': 'Imaginary LA',
   'Tina Szabo': 'Wigan LA',
+  'Jennifer Cook': 'Cheshire West and Chester'
 }
 
 for key in users:
