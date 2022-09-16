@@ -8,6 +8,7 @@ D2I.'''
 users = {
   'John Whitfield': 'Cheshire West and Chester LA',
   'Tracy Bell': 'Durham LA',
+  'Gavin Burrell':'Durham LA',
   'Will Levack-Payne':'Data 2 Insight',
   'John Foster': 'Data 2 Insight',
   'Fake Analyst': 'Imaginary LA',
