@@ -15,6 +15,7 @@ users = {
   'Tina Szabo': 'Wigan LA',
   'Jennifer Cook': 'Cheshire West and Chester',
   'Alistair Herbert': 'Data 2 Insight',
+  'Phil Deakin': 'Manchester City Council',
 }
 
 for key in users:
