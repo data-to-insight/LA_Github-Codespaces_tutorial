@@ -18,6 +18,8 @@ users = {
   'Phil Deakin': 'Manchester City Council',
   'Jade Cook': 'Wigan LA',
   'Mohammod Rahman' : 'Hackney LA',
+  'Joe Cornford-Hutchings': 'East Sussex',
+
 }
 
 for key in users:
