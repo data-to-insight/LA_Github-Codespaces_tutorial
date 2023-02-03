@@ -17,7 +17,9 @@ users = {
   'Alistair Herbert': 'Data 2 Insight',
   'Phil Deakin': 'Manchester City Council',
   'Jade Cook': 'Wigan LA',
+  'Mohammod Rahman' : 'Hackney LA',
   'Joe Cornford-Hutchings': 'East Sussex',
+
 }
 
 for key in users:
