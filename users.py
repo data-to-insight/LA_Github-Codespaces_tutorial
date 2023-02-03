@@ -19,7 +19,7 @@ users = {
   'Jade Cook': 'Wigan LA',
   'Mohammod Rahman' : 'Hackney LA',
   'Joe Cornford-Hutchings': 'East Sussex',
-
+  'Richa Vashishth':'Hackney LA',
 }
 
 for key in users:
