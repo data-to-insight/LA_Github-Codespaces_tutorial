@@ -17,6 +17,7 @@ users = {
   'Alistair Herbert': 'Data 2 Insight',
   'Phil Deakin': 'Manchester City Council',
   'Jade Cook': 'Wigan LA',
+  'Fake Analyst': 'Not-Real Local Authority',
 }
 
 for key in users:
