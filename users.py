@@ -19,6 +19,7 @@ users = {
   'Mohammod Rahman' : 'Hackney LA',
   'Joe Cornford-Hutchings': 'East Sussex',
   'Richa Vashishth':'Hackney LA',
+  'Fake User': 'Fake LA',
 }
 
 for key in users:
